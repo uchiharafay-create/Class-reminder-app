@@ -1,0 +1,6 @@
+{
+  "name": "Class Schedule & Academic Reminders",
+  "description": "Weekly class timetable, quiz and assignment reminders with 5-minute pre-event alarms and notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
